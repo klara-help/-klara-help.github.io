@@ -20,7 +20,7 @@ git commit -m '[MOD]: alterações'
 git push origin master
 ```
 
-A página estará disponível em: https://docpay-help.github.io
+A página estará disponível em: https://kyara-help.github.io
 
 ## Dicas (windows)
 
